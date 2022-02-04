@@ -4,7 +4,7 @@
 ## In progress
 
 ## Spring Boot / JPA / Hibernate - (Studies)
-### Project, Platform for Orders, Products and Users
+### Project: Orders, Products, Payments and Users API
 
 Goals: 
 - Implement domain model
@@ -27,8 +27,6 @@ Goals:
         <img align="center" width="741" height="433"  src="/img/title2.png" />
 </a>
 </p>
-
-<a href="https://www.linkedin.com/in/allan-pereira-abrahao" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Allan-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/allan-pereira-abrahao/%C3%A3o-7b72b5202/" style="max-width: 100%;"></a>
 
 ```json
 // Sample GET request
@@ -91,3 +89,4 @@ Goals:
 }
 ```
 
+<a href="https://www.linkedin.com/in/allan-pereira-abrahao" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Allan-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/allan-pereira-abrahao/%C3%A3o-7b72b5202/" style="max-width: 100%;"></a>
