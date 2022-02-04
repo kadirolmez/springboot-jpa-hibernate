@@ -238,3 +238,12 @@ ALTER TABLE ONLY public.tb_payment
 -- PostgreSQL database dump complete
 --
 
+UPDATE tb_order
+SET moment = '02/04/2022'
+WHERE id = 1;
+
+INSERT INTO tb_order_item (price,quantity,product_id,order_id)
+VALUES (1000.00,2,1,1);
+
+INSERT INTO tb_payment (moment,order_id)
+VALUES ('02/04/2022',1);
