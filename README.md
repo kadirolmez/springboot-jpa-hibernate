@@ -5,7 +5,7 @@
 
 [Deploy on Heroku](https://order-springboot-all-an.herokuapp.com/users)
 
-### POST sample:
+### Sample User Post:
 
 ```json
 { 
