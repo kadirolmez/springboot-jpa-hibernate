@@ -4,15 +4,17 @@
 ## Em andamento
 
 ## Spring Boot / JPA / Hibernate - (Estudos)
-### Projeto web services
+### Projeto Plataforma de Pedidos, Produtos e Usuários
 
 Objetivos 
 - Implementar modelo de domínio 
 - Estruturar camadas lógicas: resource, service, repository 
 - Configurar banco de dados de teste (H2) 
+- Configurar banco de dados PostgreSQL 
 - Povoar o banco de dados 
 - CRUD - Create, Retrieve, Update, Delete 
 - Tratamento de exceções
+- Deploy no Heroku
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
