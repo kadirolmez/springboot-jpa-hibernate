@@ -3,6 +3,14 @@
 
 ## In progress
 
+[Deploy on Heroku](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+Requirements: 
+- Java 11
+- Spring Boot
+- PostgreSQL
+- H2 Database
+
 ## Spring Boot / JPA / Hibernate - (Studies)
 ### Project: Orders, Products, Payments and Users API
 
