@@ -1,9 +1,30 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-## In progress
+## Deploy:
 
-[Deploy on Heroku](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+[Deploy on Heroku](https://order-springboot-all-an.herokuapp.com/users)
+
+### POST sample:
+
+```json
+{ 
+        "name": "Allan Pereira Abrahão", 
+        "email": "allan8tech@gmail.com", 
+        "phone": "49991548711", 
+        "password": "1234" 
+} 
+
+```
+
+Sample endpoints:
+
+```bash
+/users
+/orders
+/products
+```
+
 
 Requirements: 
 - Java 11
