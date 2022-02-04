@@ -1,20 +1,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-## Em andamento
+## In progress
 
-## Spring Boot / JPA / Hibernate - (Estudos)
-### Projeto Plataforma de Pedidos, Produtos e Usuários
+## Spring Boot / JPA / Hibernate - (Studies)
+### Project, Platform for Orders, Products and Users
 
-Objetivos 
-- Implementar modelo de domínio 
-- Estruturar camadas lógicas: resource, service, repository 
-- Configurar banco de dados de teste (H2) 
-- Configurar banco de dados PostgreSQL 
-- Povoar o banco de dados 
+Goals: 
+- Implement domain model
+- Logical Layers Structure : resource, service, repository 
+- Configure test database (H2)
+- Configure PostgreSQL Database 
+- Populate the database
 - CRUD - Create, Retrieve, Update, Delete 
-- Tratamento de exceções
-- Deploy no Heroku
+- Exception handling
+- Deploy on Heroku
 
 <p align="center">
         <a href="https://www.linkedin.com/in/all-an/">
