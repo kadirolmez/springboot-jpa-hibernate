@@ -33,7 +33,7 @@ Sample endpoints:
 Requirements: 
 - Java 11
 - Spring Boot
-- PostgreSQL
+- PostgreSQL 12
 - H2 Database
 
 ## Spring Boot / JPA / Hibernate - (Studies)
