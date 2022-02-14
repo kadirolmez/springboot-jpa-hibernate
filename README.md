@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-## Deploy:
+## Deploy :
 
 [Link Deploy on Heroku / users](https://order-springboot-all-an.herokuapp.com/users)
 
